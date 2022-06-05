@@ -1,9 +1,15 @@
 body{
     background-color: aliceblue;
+
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
+
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 0px;
+    border-color: black;
 }
 
 img {
@@ -12,6 +18,8 @@ img {
     margin-right: 31.21px;
     align-self: center;
 }
+
+
 
 /*
 img.instagram {
@@ -160,8 +168,8 @@ a:hover {
     background-color: black;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .white{
