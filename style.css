@@ -154,7 +154,7 @@ img.spotify {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
     border: 1px solid #d8d8d8;
-    background-color: #f5f9fa;
+    /*background-color: #f5f9fa;*/
     align-items: center!important;
 }
 
